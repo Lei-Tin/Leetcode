@@ -9,37 +9,79 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 
 ## Easy
 
-- \#21 mergeTwoLists
-- \#104 maxDepth
-- \#116 connect
-- \#167 twoSum
-- \#206 reverseList
-- \#278 firstBadVersion
-- \#283 moveZeroes
-- \#344 reverseString
-- \#434 countSegments
-- \#557 reverseWords
-- \#617 mergeTrees
-- \#704 search
-- \#733 floodFill
-- \#876 middleNode
-- \#883 projectionArea
-- \#944 minDeletionSize
-- \#953 isAlienSorted
-- \#977 sortedSquares
-- \#1071 gcdOfStrings
-- \#1566 containsPattern
-- \#1608 specialArray
+- \#1 twoSum.py
+- \#20 isValid.py
+- \#21 mergeTwoLists.py
+- \#53 maxSubArray.py
+- \#70 climbStairs.py
+- \#83 deleteDuplicates.py
+- \#88 merge.py
+- \#94 inorderTraversal.py
+- \#101 isSymmetric.py
+- \#104 maxDepth.py
+- \#112 hasPathSum.py
+- \#116 connect.py
+- \#118 generate.py
+- \#121 maxProfit.py
+- \#136 singleNumber.py
+- \#141 hasCycle.py
+- \#144 preorderTraversal.py
+- \#145 postorderTraversal.py
+- \#160 getIntersectionNode.py
+- \#167 twoSum.py
+- \#190 reverseBits.py
+- \#191 hammingWeight.py
+- \#203 removeElements.py
+- \#206 reverseList.py
+- \#217 containsDuplicate.py
+- \#226 invertTree.py
+- \#231 isPowerOfTwo.py
+- \#232 MyQueue.py
+- \#235 lowestCommonAncestor.py
+- \#242 isAnagram.py
+- \#278 firstBadVersion.py
+- \#283 moveZeroes.py
+- \#344 reverseString.py
+- \#350 intersect.py
+- \#383 canConstruct.py
+- \#387 firstUniqChar.py
+- \#434 countSegments.py
+- \#520 detectCapitalUse.py
+- \#557 reverseWords.py
+- \#566 matrixReshape.py
+- \#617 mergeTrees.py
+- \#653 findTarget.py
+- \#700 searchBST.py
+- \#704 search.py
+- \#733 floodFill.py
+- \#860 lemonadeChange.py
+- \#876 middleNode.py
+- \#883 projectionArea.py
+- \#944 minDeletionSize.py
+- \#953 isAlienSorted.py
+- \#977 sortedSquares.py
+- \#1071 gcdOfStrings.py
+- \#1122 relativeSortArray.py
+- \#1566 containsPattern.py
+- \#1608 specialArray.py
+- \#1736 maximumTime.py
 
 ## Medium
 
-- \#3 lengthOfLongestSubstring
-- \#19 removeNthFromEnd
-- \#189 rotate
-- \#328 oddEvenList
-- \#567 checkInclusion
-- \#695 maxAreaOfIsland
+- \#3 lengthOfLongestSubstring.py
+- \#19 removeNthFromEnd.py
+- \#36 isValidSudoku.py
+- \#46 permute.py
+- \#74 searchMatrix.py
+- \#98 isValidBST.py
+- \#102 levelOrder.py
+- \#189 rotate.py
+- \#328 oddEvenList.py
+- \#567 checkInclusion.py
+- \#695 maxAreaOfIsland.py
+- \#701 insertIntoBST.py
+- \#784 letterCasePermutation.py
 
 ## Hard
 
-- \#30 findSubstring
+- \#30 findSubstring.py
