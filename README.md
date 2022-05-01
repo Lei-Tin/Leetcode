@@ -75,6 +75,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#74 searchMatrix.py
 - \#98 isValidBST.py
 - \#102 levelOrder.py
+- \#162 findPeakElement.py
 - \#189 rotate.py
 - \#328 oddEvenList.py
 - \#567 checkInclusion.py
