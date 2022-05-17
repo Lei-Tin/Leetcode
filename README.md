@@ -68,6 +68,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 
 ## Medium
 
+- \#2 addTwoNumbers.py
 - \#3 lengthOfLongestSubstring.py
 - \#19 removeNthFromEnd.py
 - \#36 isValidSudoku.py
@@ -85,4 +86,5 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 
 ## Hard
 
+- \#23 mergeKLists.py
 - \#30 findSubstring.py
