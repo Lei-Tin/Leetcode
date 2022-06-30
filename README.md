@@ -88,3 +88,4 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 
 - \#23 mergeKLists.py
 - \#30 findSubstring.py
+- \#32 longestValidParentheses.py
