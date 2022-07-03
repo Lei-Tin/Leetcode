@@ -71,6 +71,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#2 addTwoNumbers.py
 - \#3 lengthOfLongestSubstring.py
 - \#19 removeNthFromEnd.py
+- \#24 swapPairs.py
 - \#36 isValidSudoku.py
 - \#46 permute.py
 - \#74 searchMatrix.py
