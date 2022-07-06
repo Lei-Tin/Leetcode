@@ -10,6 +10,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 ## Easy
 
 - \#1 twoSum.py
+- \#13 romanToInt.py
 - \#20 isValid.py
 - \#21 mergeTwoLists.py
 - \#53 maxSubArray.py
@@ -37,6 +38,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#226 invertTree.py
 - \#231 isPowerOfTwo.py
 - \#232 MyQueue.py
+- \#234 isPalindrome.py
 - \#235 lowestCommonAncestor.py
 - \#242 isAnagram.py
 - \#278 firstBadVersion.py
@@ -45,6 +47,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#350 intersect.py
 - \#383 canConstruct.py
 - \#387 firstUniqChar.py
+- \#412 fizzBuzz.py
 - \#434 countSegments.py
 - \#520 detectCapitalUse.py
 - \#557 reverseWords.py
@@ -62,8 +65,11 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#977 sortedSquares.py
 - \#1071 gcdOfStrings.py
 - \#1122 relativeSortArray.py
+- \#1337 kWeakestRows.py
+- \#1342 numberOfSteps.py
 - \#1566 containsPattern.py
 - \#1608 specialArray.py
+- \#1672 maximumWealth.py
 - \#1736 maximumTime.py
 
 ## Medium
