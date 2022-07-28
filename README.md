@@ -67,6 +67,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1122 relativeSortArray.py
 - \#1337 kWeakestRows.py
 - \#1342 numberOfSteps.py
+- \#1351 countNegatives.py
 - \#1566 containsPattern.py
 - \#1608 specialArray.py
 - \#1672 maximumWealth.py
