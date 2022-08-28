@@ -91,6 +91,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#695 maxAreaOfIsland.py
 - \#701 insertIntoBST.py
 - \#784 letterCasePermutation.py
+- \#1823 findTheWinner.py
 
 ## Hard
 
