@@ -97,5 +97,6 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 ## Hard
 
 - \#23 mergeKLists.py
+- \#25 reverseKGroup.py
 - \#30 findSubstring.py
 - \#32 longestValidParentheses.py
