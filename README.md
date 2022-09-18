@@ -49,6 +49,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#387 firstUniqChar.py
 - \#412 fizzBuzz.py
 - \#434 countSegments.py
+- \#476 findComplement.py
 - \#520 detectCapitalUse.py
 - \#557 reverseWords.py
 - \#566 matrixReshape.py
@@ -68,6 +69,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1337 kWeakestRows.py
 - \#1342 numberOfSteps.py
 - \#1351 countNegatives.py
+- \#1491 average.py
 - \#1566 containsPattern.py
 - \#1608 specialArray.py
 - \#1672 maximumWealth.py
@@ -87,6 +89,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#162 findPeakElement.py
 - \#189 rotate.py
 - \#328 oddEvenList.py
+- \#427 construct.py
 - \#567 checkInclusion.py
 - \#695 maxAreaOfIsland.py
 - \#701 insertIntoBST.py
@@ -100,3 +103,4 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#25 reverseKGroup.py
 - \#30 findSubstring.py
 - \#32 longestValidParentheses.py
+- \#42 trap.py
