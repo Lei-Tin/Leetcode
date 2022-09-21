@@ -45,6 +45,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#283 moveZeroes.py
 - \#344 reverseString.py
 - \#350 intersect.py
+- \#374 guessNumber.py
 - \#383 canConstruct.py
 - \#387 firstUniqChar.py
 - \#412 fizzBuzz.py
