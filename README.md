@@ -65,10 +65,12 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#944 minDeletionSize.py
 - \#953 isAlienSorted.py
 - \#977 sortedSquares.py
+- \#989 addToArrayForm.py
 - \#1071 gcdOfStrings.py
 - \#1122 relativeSortArray.py
 - \#1337 kWeakestRows.py
 - \#1342 numberOfSteps.py
+- \#1346 checkIfExist.py
 - \#1351 countNegatives.py
 - \#1491 average.py
 - \#1566 containsPattern.py
@@ -98,6 +100,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#784 letterCasePermutation.py
 - \#1823 findTheWinner.py
 - \#1861 rotateTheBox.py
+- \#2221 triangularSum.py
 
 ## Hard
 
