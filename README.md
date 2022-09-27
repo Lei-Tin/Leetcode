@@ -30,6 +30,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#145 postorderTraversal.py
 - \#160 getIntersectionNode.py
 - \#167 twoSum.py
+- \#183 customersWhoNeverOrder
 - \#190 reverseBits.py
 - \#191 hammingWeight.py
 - \#203 removeElements.py
@@ -54,6 +55,8 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#520 detectCapitalUse.py
 - \#557 reverseWords.py
 - \#566 matrixReshape.py
+- \#584 findCustomerReferee
+- \#595 bigCountries
 - \#617 mergeTrees.py
 - \#653 findTarget.py
 - \#700 searchBST.py
@@ -77,6 +80,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1608 specialArray.py
 - \#1672 maximumWealth.py
 - \#1736 maximumTime.py
+- \#1757 recyclableAndLowFats
 
 ## Medium
 
