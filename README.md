@@ -33,6 +33,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#183 customersWhoNeverOrder
 - \#190 reverseBits.py
 - \#191 hammingWeight.py
+- \#196 deleteDuplicateEmails
 - \#203 removeElements.py
 - \#206 reverseList.py
 - \#217 containsDuplicate.py
@@ -58,6 +59,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#584 findCustomerReferee
 - \#595 bigCountries
 - \#617 mergeTrees.py
+- \#627 swapSalary
 - \#653 findTarget.py
 - \#700 searchBST.py
 - \#704 search.py
@@ -81,6 +83,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1672 maximumWealth.py
 - \#1736 maximumTime.py
 - \#1757 recyclableAndLowFats
+- \#1873 calculateSpecialBonus
 
 ## Medium
 
