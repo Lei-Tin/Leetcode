@@ -86,7 +86,9 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1672 maximumWealth.py
 - \#1736 maximumTime.py
 - \#1757 recyclableAndLowFats
+- \#1795 rearrangeProductsTable
 - \#1873 calculateSpecialBonus
+- \#1965 employeesWithMissingInformation
 
 ## Medium
 
@@ -100,10 +102,12 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#98 isValidBST.py
 - \#102 levelOrder.py
 - \#162 findPeakElement.py
+- \#176 secondHighestSalary
 - \#189 rotate.py
 - \#328 oddEvenList.py
 - \#427 construct.py
 - \#567 checkInclusion.py
+- \#608 treeNode
 - \#658 findClosestElements.py
 - \#695 maxAreaOfIsland.py
 - \#701 insertIntoBST.py
