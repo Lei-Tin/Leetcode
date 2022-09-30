@@ -77,9 +77,12 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1342 numberOfSteps.py
 - \#1346 checkIfExist.py
 - \#1351 countNegatives.py
+- \#1484 groupSoldProductsByTheDate
 - \#1491 average.py
+- \#1527 patientsWithACondition
 - \#1566 containsPattern.py
 - \#1608 specialArray.py
+- \#1667 fixNamesInATable
 - \#1672 maximumWealth.py
 - \#1736 maximumTime.py
 - \#1757 recyclableAndLowFats
