@@ -30,6 +30,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#145 postorderTraversal.py
 - \#160 getIntersectionNode.py
 - \#167 twoSum.py
+- \#175 combineTwoTables
 - \#183 customersWhoNeverOrder
 - \#190 reverseBits.py
 - \#191 hammingWeight.py
@@ -73,6 +74,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#989 addToArrayForm.py
 - \#1071 gcdOfStrings.py
 - \#1122 relativeSortArray.py
+- \#1148 articleViewsI
 - \#1337 kWeakestRows.py
 - \#1342 numberOfSteps.py
 - \#1346 checkIfExist.py
@@ -81,6 +83,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1491 average.py
 - \#1527 patientsWithACondition
 - \#1566 containsPattern.py
+- \#1581 customerWhoVisitedButDidNotMakeAnyTransactions
 - \#1608 specialArray.py
 - \#1667 fixNamesInATable
 - \#1672 maximumWealth.py
