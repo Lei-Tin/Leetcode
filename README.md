@@ -35,6 +35,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#190 reverseBits.py
 - \#191 hammingWeight.py
 - \#196 deleteDuplicateEmails
+- \#197 risingTemperature
 - \#203 removeElements.py
 - \#206 reverseList.py
 - \#217 containsDuplicate.py
@@ -59,6 +60,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#566 matrixReshape.py
 - \#584 findCustomerReferee
 - \#595 bigCountries
+- \#607 salesPerson
 - \#617 mergeTrees.py
 - \#627 swapSalary
 - \#653 findTarget.py
