@@ -91,6 +91,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1667 fixNamesInATable
 - \#1672 maximumWealth.py
 - \#1693 dailyLeadsAndPartners
+- \#1729 findFollowersCount
 - \#1736 maximumTime.py
 - \#1757 recyclableAndLowFats
 - \#1795 rearrangeProductsTable
