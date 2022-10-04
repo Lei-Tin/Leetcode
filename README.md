@@ -76,6 +76,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#989 addToArrayForm.py
 - \#1071 gcdOfStrings.py
 - \#1122 relativeSortArray.py
+- \#1141 userActivityForThePast30DaysI
 - \#1148 articleViewsI
 - \#1337 kWeakestRows.py
 - \#1342 numberOfSteps.py
@@ -89,6 +90,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1608 specialArray.py
 - \#1667 fixNamesInATable
 - \#1672 maximumWealth.py
+- \#1693 dailyLeadsAndPartners
 - \#1736 maximumTime.py
 - \#1757 recyclableAndLowFats
 - \#1795 rearrangeProductsTable
