@@ -1,0 +1,5 @@
+SELECT user_id, MAX(time_stamp) AS last_stamp
+FROM Logins
+WHERE time_stamp < CAST("2021-01-01" AS DATE)
+  AND time_stamp >= CAST("2020-01-01" AS DATE)
+GROUP BY user_id;

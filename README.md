@@ -55,10 +55,12 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#412 fizzBuzz.py
 - \#434 countSegments.py
 - \#476 findComplement.py
+- \#511 gamePlayAnalysisI
 - \#520 detectCapitalUse.py
 - \#557 reverseWords.py
 - \#566 matrixReshape.py
 - \#584 findCustomerReferee
+- \#586 customersPlacingTheLargestNumberOfOrders
 - \#595 bigCountries
 - \#607 salesPerson
 - \#617 mergeTrees.py
@@ -93,9 +95,11 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1693 dailyLeadsAndPartners
 - \#1729 findFollowersCount
 - \#1736 maximumTime.py
+- \#1741 findTotalTimeSpentByEachEmployee
 - \#1757 recyclableAndLowFats
 - \#1795 rearrangeProductsTable
 - \#1873 calculateSpecialBonus
+- \#1890 theLatestLoginIn2020
 - \#1965 employeesWithMissingInformation
 
 ## Medium
