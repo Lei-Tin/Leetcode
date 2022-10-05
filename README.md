@@ -84,6 +84,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1342 numberOfSteps.py
 - \#1346 checkIfExist.py
 - \#1351 countNegatives.py
+- \#1407 topTravellers
 - \#1484 groupSoldProductsByTheDate
 - \#1491 average.py
 - \#1527 patientsWithACondition
@@ -125,6 +126,8 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#695 maxAreaOfIsland.py
 - \#701 insertIntoBST.py
 - \#784 letterCasePermutation.py
+- \#1158 marketAnalysisI
+- \#1393 capitalGainLoss
 - \#1823 findTheWinner.py
 - \#1861 rotateTheBox.py
 - \#2221 triangularSum.py
