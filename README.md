@@ -31,6 +31,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#160 getIntersectionNode.py
 - \#167 twoSum.py
 - \#175 combineTwoTables
+- \#182 duplicateEmails
 - \#183 customersWhoNeverOrder
 - \#190 reverseBits.py
 - \#191 hammingWeight.py
@@ -76,7 +77,9 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#953 isAlienSorted.py
 - \#977 sortedSquares.py
 - \#989 addToArrayForm.py
+- \#1050 actorsAndDirectorsWhoCooperatedAtLeastThreeTimes
 - \#1071 gcdOfStrings.py
+- \#1084 salesAnalysisIII
 - \#1122 relativeSortArray.py
 - \#1141 userActivityForThePast30DaysI
 - \#1148 articleViewsI
@@ -90,6 +93,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1527 patientsWithACondition
 - \#1566 containsPattern.py
 - \#1581 customerWhoVisitedButDidNotMakeAnyTransactions
+- \#1587 bankAccountSummaryII
 - \#1608 specialArray.py
 - \#1667 fixNamesInATable
 - \#1672 maximumWealth.py
