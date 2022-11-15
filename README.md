@@ -108,6 +108,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1873 calculateSpecialBonus
 - \#1890 theLatestLoginIn2020
 - \#1965 employeesWithMissingInformation
+- \#1967 numOfStrings.py
 
 ## Medium
 
