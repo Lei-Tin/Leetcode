@@ -67,6 +67,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#617 mergeTrees.py
 - \#627 swapSalary
 - \#653 findTarget.py
+- \#693 hasAlternatingBits.py
 - \#700 searchBST.py
 - \#704 search.py
 - \#733 floodFill.py
