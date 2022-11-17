@@ -125,6 +125,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#162 findPeakElement.py
 - \#176 secondHighestSalary
 - \#189 rotate.py
+- \#223 computeArea.py
 - \#328 oddEvenList.py
 - \#427 construct.py
 - \#567 checkInclusion.py
