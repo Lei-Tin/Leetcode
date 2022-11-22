@@ -138,6 +138,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1393 capitalGainLoss
 - \#1823 findTheWinner.py
 - \#1861 rotateTheBox.py
+- \#2018 placeWordInCrossword.py
 - \#2221 triangularSum.py
 
 ## Hard
