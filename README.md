@@ -121,6 +121,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#43 multiply.py
 - \#46 permute.py
 - \#74 searchMatrix.py
+- \#77 combine.py
 - \#98 isValidBST.py
 - \#102 levelOrder.py
 - \#162 findPeakElement.py
