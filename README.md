@@ -88,6 +88,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1342 numberOfSteps.py
 - \#1346 checkIfExist.py
 - \#1351 countNegatives.py
+- \#1365 smallerNumberThanCurrent.py
 - \#1407 topTravellers
 - \#1437 kLengthApart.py
 - \#1484 groupSoldProductsByTheDate
