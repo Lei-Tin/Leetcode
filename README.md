@@ -130,6 +130,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#223 computeArea.py
 - \#328 oddEvenList.py
 - \#427 construct.py
+- \#447 numberOfBoomerangs.py
 - \#567 checkInclusion.py
 - \#608 treeNode
 - \#658 findClosestElements.py
