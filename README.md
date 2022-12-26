@@ -144,6 +144,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1861 rotateTheBox.py
 - \#2018 placeWordInCrossword.py
 - \#2095 deleteMiddle.py
+- \#2120 executionInstructions.py
 - \#2221 triangularSum.py
 
 ## Hard
