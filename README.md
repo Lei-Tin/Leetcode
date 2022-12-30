@@ -110,6 +110,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1890 theLatestLoginIn2020
 - \#1965 employeesWithMissingInformation
 - \#1967 numOfStrings.py
+- \#2089 targetIndices.py
 - \#2455 averageValue.py
 
 ## Medium
