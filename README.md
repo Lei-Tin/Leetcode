@@ -123,6 +123,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#36 isValidSudoku.py
 - \#43 multiply.py
 - \#46 permute.py
+- \#53 maxSubArray.py
 - \#74 searchMatrix.py
 - \#77 combine.py
 - \#98 isValidBST.py
