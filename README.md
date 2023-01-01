@@ -30,6 +30,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#145 postorderTraversal.py
 - \#160 getIntersectionNode.py
 - \#167 twoSum.py
+- \#169 majorityElement.py
 - \#175 combineTwoTables
 - \#182 duplicateEmails
 - \#183 customersWhoNeverOrder
@@ -118,6 +119,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#2 addTwoNumbers.py
 - \#3 lengthOfLongestSubstring.py
 - \#8 myAtoi.py
+- \#15 threeSum.py
 - \#19 removeNthFromEnd.py
 - \#24 swapPairs.py
 - \#36 isValidSudoku.py

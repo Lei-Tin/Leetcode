@@ -1,11 +1,11 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        s = set()
+        x = nums[0]
 
-        for num in nums:
-            if num in s:
-                s.remove(num)
-            else:
-                s.add(num)
+        for i in range(1, len(nums)):
+            # XOR is commutative, and if we take XOR of two of the same element, we get 0
+            # Therefore, 0 XOR the only element that appears once is the answer
+            x = x ^ nums[i]
 
-        return s.pop()
+        return x
+
