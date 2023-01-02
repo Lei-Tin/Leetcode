@@ -71,6 +71,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#693 hasAlternatingBits.py
 - \#700 searchBST.py
 - \#704 search.py
+- \#706 myHashMap.py
 - \#733 floodFill.py
 - \#860 lemonadeChange.py
 - \#876 middleNode.py
@@ -126,7 +127,9 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#43 multiply.py
 - \#46 permute.py
 - \#53 maxSubArray.py
+- \#56 merge.py
 - \#74 searchMatrix.py
+- \#75 sortColors.py
 - \#77 combine.py
 - \#98 isValidBST.py
 - \#102 levelOrder.py
