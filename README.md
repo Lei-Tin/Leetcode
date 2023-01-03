@@ -23,6 +23,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#112 hasPathSum.py
 - \#116 connect.py
 - \#118 generate.py
+- \#119 getRow.py
 - \#121 maxProfit.py
 - \#136 singleNumber.py
 - \#141 hasCycle.py
@@ -126,8 +127,10 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#36 isValidSudoku.py
 - \#43 multiply.py
 - \#46 permute.py
+- \#48 rotate.py
 - \#53 maxSubArray.py
 - \#56 merge.py
+- \#59 generateMatrix.py
 - \#74 searchMatrix.py
 - \#75 sortColors.py
 - \#77 combine.py
