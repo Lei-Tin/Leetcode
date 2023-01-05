@@ -141,11 +141,14 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#176 secondHighestSalary
 - \#189 rotate.py
 - \#223 computeArea.py
+- \#238 productExceptSelf.py
 - \#240 searchMatrix.py
 - \#328 oddEvenList.py
+- \#334 increasingTriplet.py
 - \#427 construct.py
 - \#435 eraseOverlapIntervals.py
 - \#447 numberOfBoomerangs.py
+- \#560 subarraySum.py
 - \#567 checkInclusion.py
 - \#608 treeNode
 - \#658 findClosestElements.py
