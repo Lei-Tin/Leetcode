@@ -50,6 +50,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#242 isAnagram.py
 - \#278 firstBadVersion.py
 - \#283 moveZeroes.py
+- \#303 NumArray.py
 - \#344 reverseString.py
 - \#350 intersect.py
 - \#374 guessNumber.py
