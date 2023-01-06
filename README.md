@@ -56,7 +56,9 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#374 guessNumber.py
 - \#383 canConstruct.py
 - \#387 firstUniqChar.py
+- \#409 longestPalindrome.py
 - \#412 fizzBuzz.py
+- \#415 addStrings.py
 - \#434 countSegments.py
 - \#476 findComplement.py
 - \#511 gamePlayAnalysisI
