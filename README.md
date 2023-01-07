@@ -50,6 +50,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#242 isAnagram.py
 - \#278 firstBadVersion.py
 - \#283 moveZeroes.py
+- \#290 wordPattern.py
 - \#303 NumArray.py
 - \#344 reverseString.py
 - \#350 intersect.py
@@ -157,6 +158,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#658 findClosestElements.py
 - \#695 maxAreaOfIsland.py
 - \#701 insertIntoBST.py
+- \#763 partitionLabels.py
 - \#784 letterCasePermutation.py
 - \#1158 marketAnalysisI
 - \#1393 capitalGainLoss
