@@ -132,6 +132,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#43 multiply.py
 - \#46 permute.py
 - \#48 rotate.py
+- \#49 groupAnagrams.py
 - \#53 maxSubArray.py
 - \#56 merge.py
 - \#59 generateMatrix.py
