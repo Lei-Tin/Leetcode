@@ -14,6 +14,8 @@ def format_question(lst: List[str]) -> List[str]:
     new_lst = []
 
     for question in lst:
+        if question == '.DS_Store':
+            continue
         hash_index = question.index('#')
         space_index = question.index(' ')
         number = int(question[hash_index + 1:space_index])
