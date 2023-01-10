@@ -124,6 +124,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 
 - \#2 addTwoNumbers.py
 - \#3 lengthOfLongestSubstring.py
+- \#5 longestPalindrome.py
 - \#8 myAtoi.py
 - \#15 threeSum.py
 - \#19 removeNthFromEnd.py
@@ -144,6 +145,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#148 sortList.py
 - \#162 findPeakElement.py
 - \#176 secondHighestSalary
+- \#187 findRepeatedDnaSequences.py
 - \#189 rotate.py
 - \#223 computeArea.py
 - \#238 productExceptSelf.py
