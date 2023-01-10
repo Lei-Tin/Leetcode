@@ -78,6 +78,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#704 search.py
 - \#706 myHashMap.py
 - \#733 floodFill.py
+- \#747 dominantIndex.py
 - \#860 lemonadeChange.py
 - \#876 middleNode.py
 - \#883 projectionArea.py
