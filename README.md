@@ -164,6 +164,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#701 insertIntoBST.py
 - \#763 partitionLabels.py
 - \#784 letterCasePermutation.py
+- \#974 subarraysDivByK.py
 - \#1158 marketAnalysisI
 - \#1393 capitalGainLoss
 - \#1823 findTheWinner.py
