@@ -170,6 +170,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#974 subarraysDivByK.py
 - \#1158 marketAnalysisI
 - \#1393 capitalGainLoss
+- \#1443 minTime.py
 - \#1823 findTheWinner.py
 - \#1861 rotateTheBox.py
 - \#2001 interchangableRectangles.py
