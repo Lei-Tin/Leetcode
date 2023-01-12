@@ -40,3 +40,23 @@ class Solution:
         head.next.next = self.swapPairs(header)
 
         return head
+
+    # Another solution
+    # ans = ListNode()
+    # ans.next = head
+    # dummy = ans
+    #
+    # curr = head
+    #
+    # while curr is not None and curr.next is not None:
+    #     two_steps = curr.next.next
+    #
+    #     ans.next = curr.next
+    #     ans = ans.next
+    #     ans.next = curr
+    #     ans = ans.next
+    #     curr.next = two_steps
+    #
+    #     curr = two_steps
+    #
+    # return dummy.next
