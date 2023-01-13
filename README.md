@@ -146,6 +146,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#98 isValidBST.py
 - \#102 levelOrder.py
 - \#142 detectCycle.py
+- \#143 reorderList.py
 - \#148 sortList.py
 - \#162 findPeakElement.py
 - \#176 secondHighestSalary

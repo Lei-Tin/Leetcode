@@ -3,18 +3,26 @@ class Solution:
         if r * c != len(mat) * len(mat[0]):
             return mat
 
-        new_mat = []
+        new_mat = [[0 for _ in range(c)] for _ in range(r)]
 
-        flatten_mat = self.flatten(mat)
+        row = 0
+        col = 0
 
-        for row in range(r):
-            column = []
-            for col in range(c):
-                column.append(flatten_mat[row * c + (col)])
+        i = 0
+        j = 0
 
-            new_mat.append(column)
+        while i < len(mat):
+            new_mat[row][col] = mat[i][j]
+
+            j += 1
+            col += 1
+
+            if col >= c:
+                row += 1
+                col = 0
+
+            if j >= len(mat[0]):
+                i += 1
+                j = 0
 
         return new_mat
-
-    def flatten(self, mat: List[List[int]]) -> List[int]:
-        return [item for sublist in mat for item in sublist]
