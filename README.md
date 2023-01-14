@@ -129,6 +129,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#5 longestPalindrome.py
 - \#8 myAtoi.py
 - \#15 threeSum.py
+- \#18 fourSum.py
 - \#19 removeNthFromEnd.py
 - \#24 swapPairs.py
 - \#36 isValidSudoku.py
@@ -171,6 +172,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#763 partitionLabels.py
 - \#784 letterCasePermutation.py
 - \#974 subarraysDivByK.py
+- \#1061 smallestEquivalentString.py
 - \#1158 marketAnalysisI
 - \#1249 minRemoveToMakeValid.py
 - \#1393 capitalGainLoss
