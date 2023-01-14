@@ -148,6 +148,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#142 detectCycle.py
 - \#143 reorderList.py
 - \#148 sortList.py
+- \#155 MinStack.py
 - \#162 findPeakElement.py
 - \#176 secondHighestSalary
 - \#187 findRepeatedDnaSequences.py
@@ -171,6 +172,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#784 letterCasePermutation.py
 - \#974 subarraysDivByK.py
 - \#1158 marketAnalysisI
+- \#1249 minRemoveToMakeValid.py
 - \#1393 capitalGainLoss
 - \#1443 minTime.py
 - \#1823 findTheWinner.py
