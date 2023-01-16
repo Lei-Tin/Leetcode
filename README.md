@@ -169,6 +169,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#435 eraseOverlapIntervals.py
 - \#447 numberOfBoomerangs.py
 - \#450 deleteNode.py
+- \#524 findLongestWord.py
 - \#560 subarraySum.py
 - \#567 checkInclusion.py
 - \#608 treeNode
