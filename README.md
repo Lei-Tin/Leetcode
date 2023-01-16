@@ -21,6 +21,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#100 isSameTree.py
 - \#101 isSymmetric.py
 - \#104 maxDepth.py
+- \#108 sortedArrayToBST.py
 - \#112 hasPathSum.py
 - \#116 connect.py
 - \#118 generate.py
@@ -146,6 +147,9 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#82 deleteDuplicates.py
 - \#98 isValidBST.py
 - \#102 levelOrder.py
+- \#103 zigzagLevelOrder.py
+- \#105 buildTree.py
+- \#113 pathSum.py
 - \#142 detectCycle.py
 - \#143 reorderList.py
 - \#148 sortList.py
@@ -154,6 +158,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#176 secondHighestSalary
 - \#187 findRepeatedDnaSequences.py
 - \#189 rotate.py
+- \#199 rightSideView.py
 - \#223 computeArea.py
 - \#238 productExceptSelf.py
 - \#240 searchMatrix.py
@@ -162,6 +167,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#427 construct.py
 - \#435 eraseOverlapIntervals.py
 - \#447 numberOfBoomerangs.py
+- \#450 deleteNode.py
 - \#560 subarraySum.py
 - \#567 checkInclusion.py
 - \#608 treeNode
