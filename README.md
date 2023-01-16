@@ -55,6 +55,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#290 wordPattern.py
 - \#303 NumArray.py
 - \#344 reverseString.py
+- \#345 reverseVowels.py
 - \#350 intersect.py
 - \#374 guessNumber.py
 - \#383 canConstruct.py
