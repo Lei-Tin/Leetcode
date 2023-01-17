@@ -146,6 +146,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#75 sortColors.py
 - \#77 combine.py
 - \#82 deleteDuplicates.py
+- \#86 partition.py
 - \#98 isValidBST.py
 - \#102 levelOrder.py
 - \#103 zigzagLevelOrder.py
