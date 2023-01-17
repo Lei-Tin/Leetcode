@@ -157,11 +157,13 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#148 sortList.py
 - \#155 MinStack.py
 - \#162 findPeakElement.py
+- \#173 BSTIterator.py
 - \#176 secondHighestSalary
 - \#187 findRepeatedDnaSequences.py
 - \#189 rotate.py
 - \#199 rightSideView.py
 - \#223 computeArea.py
+- \#230 kthSmallest.py
 - \#238 productExceptSelf.py
 - \#240 searchMatrix.py
 - \#328 oddEvenList.py
@@ -187,6 +189,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1393 capitalGainLoss
 - \#1443 minTime.py
 - \#1823 findTheWinner.py
+- \#1828 countPoints.py
 - \#1861 rotateTheBox.py
 - \#2001 interchangableRectangles.py
 - \#2018 placeWordInCrossword.py
