@@ -164,6 +164,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#199 rightSideView.py
 - \#223 computeArea.py
 - \#230 kthSmallest.py
+- \#236 lowestCommonAncestor.py
 - \#238 productExceptSelf.py
 - \#240 searchMatrix.py
 - \#328 oddEvenList.py
@@ -204,3 +205,4 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#30 findSubstring.py
 - \#32 longestValidParentheses.py
 - \#42 trap.py
+- \#297 Codec.py
