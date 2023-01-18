@@ -119,10 +119,12 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1741 findTotalTimeSpentByEachEmployee
 - \#1757 recyclableAndLowFats
 - \#1795 rearrangeProductsTable
+- \#1822 arraySign.py
 - \#1873 calculateSpecialBonus
 - \#1890 theLatestLoginIn2020
 - \#1965 employeesWithMissingInformation
 - \#1967 numOfStrings.py
+- \#2085 countWords.py
 - \#2089 targetIndices.py
 - \#2455 averageValue.py
 
