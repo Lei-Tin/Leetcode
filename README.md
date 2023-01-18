@@ -85,6 +85,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#860 lemonadeChange.py
 - \#876 middleNode.py
 - \#883 projectionArea.py
+- \#922 sortArrayByParityII.py
 - \#944 minDeletionSize.py
 - \#953 isAlienSorted.py
 - \#977 sortedSquares.py
@@ -101,6 +102,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1351 countNegatives.py
 - \#1365 smallerNumberThanCurrent.py
 - \#1407 topTravellers
+- \#1413 minStartValue.py
 - \#1437 kLengthApart.py
 - \#1484 groupSoldProductsByTheDate
 - \#1491 average.py
@@ -167,8 +169,10 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#236 lowestCommonAncestor.py
 - \#238 productExceptSelf.py
 - \#240 searchMatrix.py
+- \#319 bulbSwitch.py
 - \#328 oddEvenList.py
 - \#334 increasingTriplet.py
+- \#386 lexicalOrder.py
 - \#427 construct.py
 - \#435 eraseOverlapIntervals.py
 - \#447 numberOfBoomerangs.py
