@@ -90,6 +90,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#953 isAlienSorted.py
 - \#977 sortedSquares.py
 - \#989 addToArrayForm.py
+- \#997 findJudge.py
 - \#1050 actorsAndDirectorsWhoCooperatedAtLeastThreeTimes
 - \#1071 gcdOfStrings.py
 - \#1084 salesAnalysisIII
@@ -189,6 +190,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#707 MyLinkedList.py
 - \#763 partitionLabels.py
 - \#784 letterCasePermutation.py
+- \#841 canVisitAllRooms.py
 - \#974 subarraysDivByK.py
 - \#1061 smallestEquivalentString.py
 - \#1158 marketAnalysisI
