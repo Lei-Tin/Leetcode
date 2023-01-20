@@ -167,6 +167,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#187 findRepeatedDnaSequences.py
 - \#189 rotate.py
 - \#199 rightSideView.py
+- \#215 findKthLargest.py
 - \#223 computeArea.py
 - \#230 kthSmallest.py
 - \#236 lowestCommonAncestor.py
@@ -175,6 +176,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#319 bulbSwitch.py
 - \#328 oddEvenList.py
 - \#334 increasingTriplet.py
+- \#347 topKFrequent.py
 - \#386 lexicalOrder.py
 - \#427 construct.py
 - \#435 eraseOverlapIntervals.py
