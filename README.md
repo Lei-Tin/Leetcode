@@ -199,6 +199,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1249 minRemoveToMakeValid.py
 - \#1393 capitalGainLoss
 - \#1443 minTime.py
+- \#1557 findSmallestSetOfVertices.py
 - \#1823 findTheWinner.py
 - \#1828 countPoints.py
 - \#1861 rotateTheBox.py
