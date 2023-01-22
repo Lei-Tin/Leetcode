@@ -122,6 +122,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1795 rearrangeProductsTable
 - \#1822 arraySign.py
 - \#1873 calculateSpecialBonus
+- \#1876 countGoodSubstrings.py
 - \#1890 theLatestLoginIn2020
 - \#1965 employeesWithMissingInformation
 - \#1967 numOfStrings.py
@@ -152,6 +153,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#77 combine.py
 - \#82 deleteDuplicates.py
 - \#86 partition.py
+- \#93 restoreIpAddresses.py
 - \#98 isValidBST.py
 - \#102 levelOrder.py
 - \#103 zigzagLevelOrder.py
@@ -182,6 +184,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#435 eraseOverlapIntervals.py
 - \#447 numberOfBoomerangs.py
 - \#450 deleteNode.py
+- \#451 frequencySort.py
 - \#524 findLongestWord.py
 - \#560 subarraySum.py
 - \#567 checkInclusion.py
@@ -193,6 +196,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#763 partitionLabels.py
 - \#784 letterCasePermutation.py
 - \#841 canVisitAllRooms.py
+- \#973 kClosest.py
 - \#974 subarraysDivByK.py
 - \#1061 smallestEquivalentString.py
 - \#1158 marketAnalysisI
