@@ -107,6 +107,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1437 kLengthApart.py
 - \#1484 groupSoldProductsByTheDate
 - \#1491 average.py
+- \#1523 countOdds.py
 - \#1527 patientsWithACondition
 - \#1566 containsPattern.py
 - \#1581 customerWhoVisitedButDidNotMakeAnyTransactions
