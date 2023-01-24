@@ -1,6 +1,6 @@
 class Solution:
     def average(self, salary: List[int]) -> float:
-        minSal, maxSal = 1000001, 999
+        minSal, maxSal = 10 ** 6 + 1, 999
 
         ans = 0
 
