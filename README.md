@@ -88,6 +88,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#922 sortArrayByParityII.py
 - \#944 minDeletionSize.py
 - \#953 isAlienSorted.py
+- \#976 largestPerimeter.py
 - \#977 sortedSquares.py
 - \#989 addToArrayForm.py
 - \#997 findJudge.py
@@ -121,6 +122,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1736 maximumTime.py
 - \#1741 findTotalTimeSpentByEachEmployee
 - \#1757 recyclableAndLowFats
+- \#1779 nearestValidPoint.py
 - \#1795 rearrangeProductsTable
 - \#1822 arraySign.py
 - \#1873 calculateSpecialBonus
