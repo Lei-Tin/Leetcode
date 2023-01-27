@@ -41,6 +41,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#191 hammingWeight.py
 - \#196 deleteDuplicateEmails
 - \#197 risingTemperature
+- \#202 isHappy.py
 - \#203 removeElements.py
 - \#206 reverseList.py
 - \#217 containsDuplicate.py
@@ -109,6 +110,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1437 kLengthApart.py
 - \#1484 groupSoldProductsByTheDate
 - \#1491 average.py
+- \#1502 canMakeArithmeticProgression.py
 - \#1523 countOdds.py
 - \#1527 patientsWithACondition
 - \#1566 containsPattern.py
@@ -123,6 +125,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1741 findTotalTimeSpentByEachEmployee
 - \#1757 recyclableAndLowFats
 - \#1779 nearestValidPoint.py
+- \#1790 areAlmostEqual.py
 - \#1795 rearrangeProductsTable
 - \#1822 arraySign.py
 - \#1873 calculateSpecialBonus
