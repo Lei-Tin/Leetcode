@@ -66,12 +66,14 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#415 addStrings.py
 - \#434 countSegments.py
 - \#476 findComplement.py
+- \#496 nextGreaterElement.py
 - \#511 gamePlayAnalysisI
 - \#520 detectCapitalUse.py
 - \#557 reverseWords.py
 - \#566 matrixReshape.py
 - \#584 findCustomerReferee
 - \#586 customersPlacingTheLargestNumberOfOrders
+- \#589 preorder.py
 - \#595 bigCountries
 - \#607 salesPerson
 - \#617 mergeTrees.py
@@ -99,6 +101,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1122 relativeSortArray.py
 - \#1141 userActivityForThePast30DaysI
 - \#1148 articleViewsI
+- \#1232 checkStraightLine.py
 - \#1281 subtractProductAndSum.py
 - \#1337 kWeakestRows.py
 - \#1342 numberOfSteps.py
@@ -188,6 +191,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#347 topKFrequent.py
 - \#386 lexicalOrder.py
 - \#427 construct.py
+- \#429 levelOrder.py
 - \#435 eraseOverlapIntervals.py
 - \#447 numberOfBoomerangs.py
 - \#450 deleteNode.py
