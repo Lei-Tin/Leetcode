@@ -3,6 +3,14 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        # Version 3
+        index = 0
+
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                nums[index], nums[i] = nums[i], nums[index]
+                index += 1
+
         #         left_ptr = right_ptr = 0
 
         #         while left_ptr < len(nums):
@@ -16,14 +24,13 @@ class Solution:
         #             left_ptr += 1
 
         # Version 2
-        num_zeroes = 0
-        length = len(nums)
-
-        for i in range(len(nums)):
-            if nums[i] == 0:
-                num_zeroes += 1
-
-        for i in range(num_zeroes):
-            nums.remove(0)
-            nums.insert(length, 0)
-
+        # num_zeroes = 0
+        # length = len(nums)
+        #
+        # for i in range(len(nums)):
+        #     if nums[i] == 0:
+        #         num_zeroes += 1
+        #
+        # for i in range(num_zeroes):
+        #     nums.remove(0)
+        #     nums.insert(length, 0)
