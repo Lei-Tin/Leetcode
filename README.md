@@ -99,6 +99,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1071 gcdOfStrings.py
 - \#1084 salesAnalysisIII
 - \#1122 relativeSortArray.py
+- \#1137 tribonacci.py
 - \#1141 userActivityForThePast30DaysI
 - \#1148 articleViewsI
 - \#1232 checkStraightLine.py
@@ -117,8 +118,10 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1523 countOdds.py
 - \#1527 patientsWithACondition
 - \#1566 containsPattern.py
+- \#1572 diagonalSum.py
 - \#1581 customerWhoVisitedButDidNotMakeAnyTransactions
 - \#1587 bankAccountSummaryII
+- \#1588 sumOddLengthSubarrays.py
 - \#1608 specialArray.py
 - \#1667 fixNamesInATable
 - \#1672 maximumWealth.py
