@@ -201,6 +201,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#427 construct.py
 - \#429 levelOrder.py
 - \#435 eraseOverlapIntervals.py
+- \#438 findAnagrams.py
 - \#447 numberOfBoomerangs.py
 - \#450 deleteNode.py
 - \#451 frequencySort.py
