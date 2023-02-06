@@ -115,6 +115,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1407 topTravellers
 - \#1413 minStartValue.py
 - \#1437 kLengthApart.py
+- \#1470 shuffle.py
 - \#1484 groupSoldProductsByTheDate
 - \#1491 average.py
 - \#1502 canMakeArithmeticProgression.py
