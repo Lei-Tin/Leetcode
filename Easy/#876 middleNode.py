@@ -5,22 +5,22 @@
 #         self.next = next
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        #         length = 0
-
-        #         curr = head
-
-        #         while curr is not None:
-        #             curr = curr.next
-        #             length += 1
-
-        #         index = length // 2
-
-        #         curr = head
-
-        #         for i in range(index):
-        #             curr = curr.next
-
-        #         return curr
+        # length = 0
+        #
+        # curr = head
+        #
+        # while curr is not None:
+        #     curr = curr.next
+        #     length += 1
+        #
+        # index = length // 2
+        #
+        # curr = head
+        #
+        # for i in range(index):
+        #     curr = curr.next
+        #
+        # return curr
 
         # Version 2
 

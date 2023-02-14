@@ -62,6 +62,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#383 canConstruct.py
 - \#387 firstUniqChar.py
 - \#389 findTheDifference.py
+- \#404 sumOfLeftLeaves.py
 - \#409 longestPalindrome.py
 - \#412 fizzBuzz.py
 - \#415 addStrings.py
@@ -106,6 +107,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1148 articleViewsI
 - \#1232 checkStraightLine.py
 - \#1281 subtractProductAndSum.py
+- \#1290 getDecimalValue.py
 - \#1309 freqAlphabets.py
 - \#1337 kWeakestRows.py
 - \#1342 numberOfSteps.py
