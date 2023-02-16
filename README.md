@@ -113,6 +113,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1342 numberOfSteps.py
 - \#1346 checkIfExist.py
 - \#1351 countNegatives.py
+- \#1356 sortByBits.py
 - \#1365 smallerNumberThanCurrent.py
 - \#1407 topTravellers
 - \#1413 minStartValue.py
@@ -128,6 +129,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#1581 customerWhoVisitedButDidNotMakeAnyTransactions
 - \#1587 bankAccountSummaryII
 - \#1588 sumOddLengthSubarrays.py
+- \#1603 ParkingSystem.py
 - \#1608 specialArray.py
 - \#1667 fixNamesInATable
 - \#1672 maximumWealth.py
