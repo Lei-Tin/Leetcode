@@ -88,6 +88,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#709 toLowerCase.py
 - \#733 floodFill.py
 - \#747 dominantIndex.py
+- \#783 minDiffInBST.py
 - \#860 lemonadeChange.py
 - \#876 middleNode.py
 - \#883 projectionArea.py
