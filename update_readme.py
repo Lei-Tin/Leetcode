@@ -41,7 +41,7 @@ if __name__ == '__main__':
     medium_index = contents.index('## Medium\n')
     hard_index = contents.index('## Hard\n')
 
-    # # This plus 2 is so that it goes after the new line character
+    #This plus 2 is so that it goes after the new line character
     contents[hard_index + 2:] = hard
     contents[medium_index + 2:hard_index - 1] = medium
     contents[easy_index + 2:medium_index - 1] = easy
