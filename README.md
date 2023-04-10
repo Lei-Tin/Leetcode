@@ -190,6 +190,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \._#56 merge.py
 - \#59 generateMatrix.py
 - \._#59 generateMatrix.py
+- \#61 rotateRight.py
 - \#74 searchMatrix.py
 - \._#74 searchMatrix.py
 - \#75 sortColors.py
