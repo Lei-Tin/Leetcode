@@ -247,6 +247,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#2120 executionInstructions.py
 - \#2140 mostPoints.py
 - \#2221 triangularSum.py
+- \#2466 countGoodStrings.py
 
 ## Hard
 
