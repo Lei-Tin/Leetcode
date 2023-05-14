@@ -168,6 +168,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2656 maximizeSum.py
 - \#2670 distinctDifferenceArray.py
 - \#2678 countSeniors.py
+- \#6430 circularGameLosers.py
 
 ## Medium
 
@@ -263,6 +264,9 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2658 findMaxFish.py
 - \#2679 matrixSum.py
 - \#2680 maximumOr.py
+- \#6431 doesValidArrayExist.py
+- \#6432 countCompleteComponents.py
+- \#6433 maxMoves.py
 
 ## Hard
 
