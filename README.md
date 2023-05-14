@@ -5,6 +5,14 @@ Most questions are not optimized, they simply are just accepted answers with not
 
 My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 
+# Contests
+
+I have also participated in some of the contests starting from May 13, 2023. 
+
+The answers to my contests will be listed in the respective directories, but will not be updated in this `README.md` file.
+
+If I was able to solve the problem during the contest, I will also document it under the respective `Easy`, `Medium`, `Hard` directory. 
+
 # List of questions done
 
 ## Easy
@@ -157,6 +165,7 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#2455 averageValue.py
 - \#2626 reduce.js
 - \#2629 compose.js
+- \#2678 countSeniors.py
 
 ## Medium
 
@@ -248,6 +257,8 @@ My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 - \#2140 mostPoints.py
 - \#2221 triangularSum.py
 - \#2466 countGoodStrings.py
+- \#2679 matrixSum.py
+- \#2680 maximumOr.py
 
 ## Hard
 

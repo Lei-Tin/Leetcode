@@ -5,6 +5,14 @@ Most questions are not optimized, they simply are just accepted answers with not
 
 My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 
+# Contests
+
+I have also participated in some of the contests starting from May 13, 2023. 
+
+The answers to my contests will be listed in the respective directories, but will not be updated in this `README.md` file.
+
+If I was able to solve the problem during the contest, I will also document it under the respective `Easy`, `Medium`, `Hard` directory. 
+
 # List of questions done
 
 ## Easy
