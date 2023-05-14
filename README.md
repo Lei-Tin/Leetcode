@@ -165,6 +165,8 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2455 averageValue.py
 - \#2626 reduce.js
 - \#2629 compose.js
+- \#2656 maximizeSum.py
+- \#2670 distinctDifferenceArray.py
 - \#2678 countSeniors.py
 
 ## Medium
@@ -257,6 +259,8 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2140 mostPoints.py
 - \#2221 triangularSum.py
 - \#2466 countGoodStrings.py
+- \#2657 findThePrefixCommonArray.py
+- \#2658 findMaxFish.py
 - \#2679 matrixSum.py
 - \#2680 maximumOr.py
 
