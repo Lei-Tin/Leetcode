@@ -1,24 +1,22 @@
 # Solution 1: Not using a flag
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
-        color = [0 for _ in range(len(graph))]
-        visited = set()
+        color = {}
 
         for i in range(len(graph)):
-            if i not in visited:
-                if self.search(i, color, graph, visited):
+            if i not in color:
+                color[i] = 0
+                if self.search(i, color, graph):
                     return False
 
         return True
 
-    def search(self, start: int, color: list, graph: List[List[int]], visited: set) -> bool:
-        visited.add(start)
-
+    def search(self, start: int, color: dict, graph: List[List[int]]) -> bool:
         for n in graph[start]:
-            if n not in visited:
+            if n not in color:
                 color[n] = not color[start]
 
-                if self.search(n, color, graph, visited):
+                if self.search(n, color, graph):
                     return True
             else:
                 if color[n] == color[start]:
