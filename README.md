@@ -241,6 +241,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#707 MyLinkedList.py
 - \#763 partitionLabels.py
 - \#784 letterCasePermutation.py
+- \#785 isBipartite.py
 - \#841 canVisitAllRooms.py
 - \#973 kClosest.py
 - \#974 subarraysDivByK.py
