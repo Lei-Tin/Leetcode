@@ -169,6 +169,8 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2670 distinctDifferenceArray.py
 - \#2678 countSeniors.py
 - \#6430 circularGameLosers.py
+- \#6439 minLength.py
+- \#6454 makeSmallestPalindrome.py
 
 ## Medium
 
@@ -243,6 +245,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#784 letterCasePermutation.py
 - \#785 isBipartite.py
 - \#841 canVisitAllRooms.py
+- \#934 shortestBridge.py
 - \#973 kClosest.py
 - \#974 subarraysDivByK.py
 - \#1061 smallestEquivalentString.py
@@ -270,6 +273,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#6431 doesValidArrayExist.py
 - \#6432 countCompleteComponents.py
 - \#6433 maxMoves.py
+- \#6441 punishmentNumber.py
 
 ## Hard
 
