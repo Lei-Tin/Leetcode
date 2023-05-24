@@ -267,6 +267,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2140 mostPoints.py
 - \#2221 triangularSum.py
 - \#2466 countGoodStrings.py
+- \#2542 maxScore.py
 - \#2657 findThePrefixCommonArray.py
 - \#2658 findMaxFish.py
 - \#2679 matrixSum.py
@@ -284,4 +285,5 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#32 longestValidParentheses.py
 - \#42 trap.py
 - \#297 Codec.py
+- \#1383 maxPerformance.py
 - \#2699 modifiedGraphEdges.py
