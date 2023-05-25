@@ -5,7 +5,7 @@ class Solution:
             temp += s[i]
 
             if len(temp) >= 2:
-                if 'AB' == temp[len(temp) - 2:len(temp)] or 'CD' == temp[len(temp) - 2:len(temp)]:
+                if temp[-2:] in {'AB', 'CD'}:
                     temp = temp[:-2]
 
         return len(temp)
