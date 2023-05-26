@@ -16,3 +16,23 @@ class Solution:
             return piles[i] - min(dp(i + x, max(m, x)) for x in range(1, 2 * m + 1))
 
         return dp(0, 1)
+
+
+# Another solution, runtime is slower
+# class Solution:
+#     def stoneGameII(self, piles: List[int]) -> int:
+#         # Player 1 is Alice, 0 is Bob
+#         @lru_cache(maxsize=None)
+#         def dp(i: int, m: int, player: int):
+#             if i >= len(piles):
+#                 return 0
+#
+#             # If we are playing as the player, we want to maximize the sum of these piles
+#             # From i to i + x, then combined with the gain after we took x piles
+#             if player:
+#                 return max(sum(piles[i:i + x]) + dp(i + x, max(m, x), 1 - player) for x in range(1, 2 * m + 1))
+#             else:
+#                 # If we are not the player, we try to minimize the amount that the player can get
+#                 return min(dp(i + x, max(m, x), 1 - player) for x in range(1, 2 * m + 1))
+#
+#         return dp(0, 1, 1)
