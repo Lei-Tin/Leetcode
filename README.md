@@ -208,6 +208,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#133 cloneGraph.py
 - \#142 detectCycle.py
 - \#143 reorderList.py
+- \#146 LRUCache.py
 - \#148 sortList.py
 - \#155 MinStack.py
 - \#162 findPeakElement.py
