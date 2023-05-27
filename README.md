@@ -290,4 +290,5 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#42 trap.py
 - \#297 Codec.py
 - \#1383 maxPerformance.py
+- \#1406 stoneGameIII.py
 - \#2699 modifiedGraphEdges.py
