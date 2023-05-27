@@ -169,6 +169,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2656 maximizeSum.py
 - \#2670 distinctDifferenceArray.py
 - \#2678 countSeniors.py
+- \#6395 buyChoco.py
 - \#6430 circularGameLosers.py
 - \#6439 minLength.py
 - \#6454 makeSmallestPalindrome.py
@@ -276,6 +277,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2658 findMaxFish.py
 - \#2679 matrixSum.py
 - \#2680 maximumOr.py
+- \#6393 maxStrength.py
 - \#6431 doesValidArrayExist.py
 - \#6432 countCompleteComponents.py
 - \#6433 maxMoves.py
@@ -292,3 +294,5 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#1383 maxPerformance.py
 - \#1406 stoneGameIII.py
 - \#2699 modifiedGraphEdges.py
+- \#2707 minExtraChar.py
+- \#2709 canTraverseAllPairs.py
