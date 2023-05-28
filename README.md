@@ -296,6 +296,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#297 Codec.py
 - \#1383 maxPerformance.py
 - \#1406 stoneGameIII.py
+- \#1547 minCost.py
 - \#2699 modifiedGraphEdges.py
 - \#2707 minExtraChar.py
 - \#2709 canTraverseAllPairs.py
