@@ -172,7 +172,9 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#6395 buyChoco.py
 - \#6430 circularGameLosers.py
 - \#6439 minLength.py
+- \#6440 differenceOfDistinctValues.py
 - \#6454 makeSmallestPalindrome.py
+- \#6457 removeTrailingZeros.py
 
 ## Medium
 
@@ -277,6 +279,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2658 findMaxFish.py
 - \#2679 matrixSum.py
 - \#2680 maximumOr.py
+- \#2712 minimumCost.py
 - \#6393 maxStrength.py
 - \#6431 doesValidArrayExist.py
 - \#6432 countCompleteComponents.py
@@ -296,3 +299,4 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2699 modifiedGraphEdges.py
 - \#2707 minExtraChar.py
 - \#2709 canTraverseAllPairs.py
+- \#2713 maxIncreasingCells.py
