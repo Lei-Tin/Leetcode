@@ -166,6 +166,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2455 averageValue.py
 - \#2626 reduce.js
 - \#2629 compose.js
+- \#2639 findColumnWidth.py
 - \#2656 maximizeSum.py
 - \#2670 distinctDifferenceArray.py
 - \#2678 countSeniors.py
@@ -247,6 +248,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#701 insertIntoBST.py
 - \#707 MyLinkedList.py
 - \#763 partitionLabels.py
+- \#769 maxChunksToSorted.py
 - \#784 letterCasePermutation.py
 - \#785 isBipartite.py
 - \#837 new21Game.py
@@ -275,6 +277,8 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2221 triangularSum.py
 - \#2466 countGoodStrings.py
 - \#2542 maxScore.py
+- \#2640 findPrefixScore.py
+- \#2641 replaceValueInTree.py
 - \#2657 findThePrefixCommonArray.py
 - \#2658 findMaxFish.py
 - \#2679 matrixSum.py
@@ -297,6 +301,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#1383 maxPerformance.py
 - \#1406 stoneGameIII.py
 - \#1547 minCost.py
+- \#2642 Graph.py
 - \#2699 modifiedGraphEdges.py
 - \#2707 minExtraChar.py
 - \#2709 canTraverseAllPairs.py
