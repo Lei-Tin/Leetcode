@@ -93,6 +93,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#700 searchBST.py
 - \#703 KthLargest.py
 - \#704 search.py
+- \#705 MyHashSet.py
 - \#706 myHashMap.py
 - \#709 toLowerCase.py
 - \#733 floodFill.py
