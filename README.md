@@ -263,6 +263,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#1158 marketAnalysisI
 - \#1249 minRemoveToMakeValid.py
 - \#1393 capitalGainLoss
+- \#1396 UndergroundSystem.py
 - \#1443 minTime.py
 - \#1557 findSmallestSetOfVertices.py
 - \#1721 swapNodes.py
