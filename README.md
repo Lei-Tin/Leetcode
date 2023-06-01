@@ -259,6 +259,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#974 subarraysDivByK.py
 - \#1061 smallestEquivalentString.py
 - \#1072 maxEqualRowsAfterFlips.py
+- \#1091 shortestPathBinaryMatrix.py
 - \#1140 stoneGameII.py
 - \#1158 marketAnalysisI
 - \#1249 minRemoveToMakeValid.py
