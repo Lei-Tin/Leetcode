@@ -274,6 +274,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2001 interchangableRectangles.py
 - \#2018 placeWordInCrossword.py
 - \#2095 deleteMiddle.py
+- \#2101 maximumDetonation.py
 - \#2120 executionInstructions.py
 - \#2130 pairSum.py
 - \#2140 mostPoints.py
