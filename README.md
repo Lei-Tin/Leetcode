@@ -171,6 +171,8 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2656 maximizeSum.py
 - \#2670 distinctDifferenceArray.py
 - \#2678 countSeniors.py
+- \#2716 minimizedStringLength.py
+- \#2717 semiOrderedPermutation.py
 - \#6395 buyChoco.py
 - \#6430 circularGameLosers.py
 - \#6439 minLength.py
@@ -241,6 +243,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#450 deleteNode.py
 - \#451 frequencySort.py
 - \#524 findLongestWord.py
+- \#547 findCircleNum.py
 - \#560 subarraySum.py
 - \#567 checkInclusion.py
 - \#608 treeNode
@@ -289,6 +292,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2679 matrixSum.py
 - \#2680 maximumOr.py
 - \#2712 minimumCost.py
+- \#2718 matrixSumQueries.py
 - \#6393 maxStrength.py
 - \#6431 doesValidArrayExist.py
 - \#6432 countCompleteComponents.py
@@ -311,3 +315,4 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2707 minExtraChar.py
 - \#2709 canTraverseAllPairs.py
 - \#2713 maxIncreasingCells.py
+- \#2719 count.py
