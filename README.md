@@ -142,6 +142,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#1588 sumOddLengthSubarrays.py
 - \#1603 ParkingSystem.py
 - \#1608 specialArray.py
+- \#1629 slowestKey.py
 - \#1667 fixNamesInATable
 - \#1672 maximumWealth.py
 - \#1678 interpret.py
