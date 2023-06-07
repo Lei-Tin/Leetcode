@@ -267,6 +267,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#1140 stoneGameII.py
 - \#1158 marketAnalysisI
 - \#1249 minRemoveToMakeValid.py
+- \#1318 minFlips.py
 - \#1376 numOfMinutes.py
 - \#1393 capitalGainLoss
 - \#1396 UndergroundSystem.py
