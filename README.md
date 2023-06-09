@@ -97,6 +97,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#706 myHashMap.py
 - \#709 toLowerCase.py
 - \#733 floodFill.py
+- \#744 nextGreatestLetter.py
 - \#747 dominantIndex.py
 - \#783 minDiffInBST.py
 - \#860 lemonadeChange.py
