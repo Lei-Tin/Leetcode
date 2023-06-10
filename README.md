@@ -181,6 +181,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#6440 differenceOfDistinctValues.py
 - \#6454 makeSmallestPalindrome.py
 - \#6457 removeTrailingZeros.py
+- \#6461 isFascinating.py
 
 ## Medium
 
@@ -296,7 +297,9 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2680 maximumOr.py
 - \#2712 minimumCost.py
 - \#2718 matrixSumQueries.py
+- \#2731 sumDistance.py
 - \#6393 maxStrength.py
+- \#6425 longestSemiRepetitiveSubstring.py
 - \#6431 doesValidArrayExist.py
 - \#6432 countCompleteComponents.py
 - \#6433 maxMoves.py
@@ -319,3 +322,4 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2709 canTraverseAllPairs.py
 - \#2713 maxIncreasingCells.py
 - \#2719 count.py
+- \#2732 goodSubsetofBinaryMatrix.py
