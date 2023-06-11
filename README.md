@@ -182,6 +182,8 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#6454 makeSmallestPalindrome.py
 - \#6457 removeTrailingZeros.py
 - \#6461 isFascinating.py
+- \#6465 smallestString.py
+- \#6470 findNonMinOrMax.py
 
 ## Medium
 
@@ -298,6 +300,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2712 minimumCost.py
 - \#2718 matrixSumQueries.py
 - \#2731 sumDistance.py
+- \#2735 minCost.py
 - \#6393 maxStrength.py
 - \#6425 longestSemiRepetitiveSubstring.py
 - \#6431 doesValidArrayExist.py
