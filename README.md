@@ -80,6 +80,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#496 nextGreaterElement.py
 - \#511 gamePlayAnalysisI
 - \#520 detectCapitalUse.py
+- \#530 getMinimumDifference.py
 - \#557 reverseWords.py
 - \#566 matrixReshape.py
 - \#584 findCustomerReferee
