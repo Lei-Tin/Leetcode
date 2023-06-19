@@ -151,6 +151,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#1678 interpret.py
 - \#1693 dailyLeadsAndPartners
 - \#1729 findFollowersCount
+- \#1732 largestAltitude.py
 - \#1736 maximumTime.py
 - \#1741 findTotalTimeSpentByEachEmployee
 - \#1757 recyclableAndLowFats
