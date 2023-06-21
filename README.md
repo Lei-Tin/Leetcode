@@ -327,6 +327,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#1406 stoneGameIII.py
 - \#1547 minCost.py
 - \#1569 numOfWays.py
+- \#2448 minCost.py
 - \#2642 Graph.py
 - \#2699 modifiedGraphEdges.py
 - \#2707 minExtraChar.py
