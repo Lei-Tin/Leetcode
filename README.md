@@ -178,6 +178,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2678 countSeniors.py
 - \#2716 minimizedStringLength.py
 - \#2717 semiOrderedPermutation.py
+- \#2739 distanceTraveled.py
 - \#6395 buyChoco.py
 - \#6430 circularGameLosers.py
 - \#6439 minLength.py
@@ -259,6 +260,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#695 maxAreaOfIsland.py
 - \#701 insertIntoBST.py
 - \#707 MyLinkedList.py
+- \#714 maxProfit.py
 - \#763 partitionLabels.py
 - \#769 maxChunksToSorted.py
 - \#784 letterCasePermutation.py
@@ -307,6 +309,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2718 matrixSumQueries.py
 - \#2731 sumDistance.py
 - \#2735 minCost.py
+- \#2740 findValueOfPartition.py
 - \#6393 maxStrength.py
 - \#6425 longestSemiRepetitiveSubstring.py
 - \#6431 doesValidArrayExist.py
