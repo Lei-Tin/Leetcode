@@ -188,6 +188,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#6461 isFascinating.py
 - \#6465 smallestString.py
 - \#6470 findNonMinOrMax.py
+- \#6892 maximumNumberOfStringPairs.py
 
 ## Medium
 
@@ -316,6 +317,9 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#6432 countCompleteComponents.py
 - \#6433 maxMoves.py
 - \#6441 punishmentNumber.py
+- \#6468 countServers.py
+- \#6895 longestString.py
+- \#6898 minimizeConcatenatedLength.py
 
 ## Hard
 
