@@ -298,6 +298,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2140 mostPoints.py
 - \#2221 triangularSum.py
 - \#2352 equalPairs.py
+- \#2462 totalCost.py
 - \#2466 countGoodStrings.py
 - \#2542 maxScore.py
 - \#2640 findPrefixScore.py
