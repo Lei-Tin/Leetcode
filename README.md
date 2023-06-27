@@ -244,6 +244,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#328 oddEvenList.py
 - \#334 increasingTriplet.py
 - \#347 topKFrequent.py
+- \#373 kSmallestPairs.py
 - \#386 lexicalOrder.py
 - \#427 construct.py
 - \#429 levelOrder.py
