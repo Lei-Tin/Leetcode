@@ -332,6 +332,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#32 longestValidParentheses.py
 - \#42 trap.py
 - \#297 Codec.py
+- \#864 shortestPathAllKeys.py
 - \#1187 makeArrayIncreasing.py
 - \#1383 maxPerformance.py
 - \#1406 stoneGameIII.py
