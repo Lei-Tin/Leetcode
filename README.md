@@ -299,6 +299,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#2130 pairSum.py
 - \#2140 mostPoints.py
 - \#2221 triangularSum.py
+- \#2305 distributeCookies.py
 - \#2352 equalPairs.py
 - \#2462 totalCost.py
 - \#2466 countGoodStrings.py
