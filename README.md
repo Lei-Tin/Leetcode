@@ -340,6 +340,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#1547 minCost.py
 - \#1569 numOfWays.py
 - \#1575 countRoutes.py
+- \#1601 maximumRequests.py
 - \#2448 minCost.py
 - \#2642 Graph.py
 - \#2699 modifiedGraphEdges.py
