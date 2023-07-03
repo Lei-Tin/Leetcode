@@ -102,6 +102,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#744 nextGreatestLetter.py
 - \#747 dominantIndex.py
 - \#783 minDiffInBST.py
+- \#859 buddyStrings.py
 - \#860 lemonadeChange.py
 - \#876 middleNode.py
 - \#883 projectionArea.py
