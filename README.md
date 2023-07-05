@@ -285,6 +285,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#1393 capitalGainLoss
 - \#1396 UndergroundSystem.py
 - \#1443 minTime.py
+- \#1493 longestSubarray.py
 - \#1514 maxProbability.py
 - \#1557 findSmallestSetOfVertices.py
 - \#1721 swapNodes.py
