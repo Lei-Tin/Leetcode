@@ -18,6 +18,7 @@ If I was able to solve the problem during the contest, I will also document it u
 ## Easy
 
 - \#1 twoSum.py
+- \#9 isPalindrome.py
 - \#13 romanToInt.py
 - \#20 isValid.py
 - \#21 mergeTwoLists.py
