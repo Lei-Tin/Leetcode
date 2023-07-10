@@ -31,6 +31,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#101 isSymmetric.py
 - \#104 maxDepth.py
 - \#108 sortedArrayToBST.py
+- \#111 minDepth.py
 - \#112 hasPathSum.py
 - \#116 connect.py
 - \#118 generate.py
