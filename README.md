@@ -256,6 +256,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#447 numberOfBoomerangs.py
 - \#450 deleteNode.py
 - \#451 frequencySort.py
+- \#486 PredictTheWinner.py
 - \#524 findLongestWord.py
 - \#547 findCircleNum.py
 - \#560 subarraySum.py
