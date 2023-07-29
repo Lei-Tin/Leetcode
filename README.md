@@ -271,6 +271,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#769 maxChunksToSorted.py
 - \#784 letterCasePermutation.py
 - \#785 isBipartite.py
+- \#808 soupServings.py
 - \#837 new21Game.py
 - \#841 canVisitAllRooms.py
 - \#863 distanceK.py
