@@ -7,7 +7,7 @@ from os import listdir
 from typing import List
 
 
-def format_question(lst: List[str]) -> List[str]:
+def format_question(lst: List[str], diff: str) -> List[str]:
     """Returns the list with the correct format that can be appended into the README.md file
     AND also returns in the correct sorted number order
     """
@@ -16,20 +16,20 @@ def format_question(lst: List[str]) -> List[str]:
     for question in lst:
         if question == '.DS_Store':
             continue
+
         hash_index = question.index('#')
         space_index = question.index(' ')
         number = int(question[hash_index + 1:space_index])
-        new_lst.append((number, question))
+        name = question[space_index + 1:]
+        new_lst.append((number, name, question))
 
-    new_lst.sort()
-
-    return [f'- \\{s[1]}\n' for s in new_lst]
+    return [f'- [\\{s[2]}]({diff}/%23{s[0]}%20{s[1]})\n' for s in sorted(new_lst)]
 
 
 if __name__ == '__main__':
-    easy = format_question(listdir('Easy'))
-    medium = format_question(listdir('Medium'))
-    hard = format_question(listdir('Hard'))
+    easy = format_question(listdir('Easy'), 'Easy')
+    medium = format_question(listdir('Medium'), 'Medium')
+    hard = format_question(listdir('Hard'), 'Hard')
 
     # Copy all the content first, then look for the segment of easy, medium, and hard
     # This template file is the file that I've manually inputted up until February 2022.
