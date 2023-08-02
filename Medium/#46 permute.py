@@ -10,16 +10,15 @@ class Solution:
 
         def solve(curr: List[int], mask: int) -> None:
             if mask == largest_mask:
-                ans.append(curr)
+                ans.append(curr.copy())
                 return
 
             for i in range(n):
                 # If it is not used in the current bit, then use it
                 if 1 << i & mask == 0:
-                    new_mask = mask + (1 << i)
-                    new_curr = curr.copy()
-                    new_curr.append(nums[i])
-                    solve(new_curr, new_mask)
+                    curr.append(nums[i])
+                    solve(curr, mask + (1 << i))
+                    curr.pop()
 
         solve([], 0)
 
