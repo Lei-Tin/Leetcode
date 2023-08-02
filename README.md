@@ -5,6 +5,8 @@ Most questions are not optimized, they simply are just accepted answers with not
 
 My Leetcode Profile can be found in this [link](https://leetcode.com/HLeiTR/)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/HLeiTR?theme=light&font=Mate&ext=activity)
+
 # Contests
 
 I have also participated in some of the contests starting from May 13, 2023. 
