@@ -37,7 +37,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - \#112 hasPathSum.py
 - \#116 connect.py
 - \#118 generate.py
-- \#119 getRow.py
+- [\#119 getRow.py](Easy/#119%20getRow.py)
 - \#121 maxProfit.py
 - \#136 singleNumber.py
 - \#141 hasCycle.py
