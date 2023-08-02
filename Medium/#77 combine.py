@@ -1,4 +1,25 @@
 class Solution:
+
+    # Backtrack solution
+    # def combine(self, n: int, k: int) -> List[List[int]]:
+    #     ans = []
+    #
+    #     def solve(curr: List[int]) -> None:
+    #         if len(curr) >= k:
+    #             ans.append(curr.copy())
+    #             return
+    #
+    #         for i in range(curr[-1] + 1, n + 1):
+    #             curr.append(i)
+    #             solve(curr)
+    #             curr.pop()
+    #
+    #     for i in range(1, n + 1):
+    #         solve([i])
+    #
+    #     return ans
+
+    # DFS Solution
     def combine(self, n: int, k: int) -> List[List[int]]:
         ans = []
 
