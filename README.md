@@ -229,6 +229,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#113 pathSum.py](Medium/%23113%20pathSum.py)
 - [\#129 sumNumbers.py](Medium/%23129%20sumNumbers.py)
 - [\#133 cloneGraph.py](Medium/%23133%20cloneGraph.py)
+- [\#139 wordBreak.py](Medium/%23139%20wordBreak.py)
 - [\#142 detectCycle.py](Medium/%23142%20detectCycle.py)
 - [\#143 reorderList.py](Medium/%23143%20reorderList.py)
 - [\#146 LRUCache.py](Medium/%23146%20LRUCache.py)
