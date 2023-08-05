@@ -222,6 +222,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#82 deleteDuplicates.py](Medium/%2382%20deleteDuplicates.py)
 - [\#86 partition.py](Medium/%2386%20partition.py)
 - [\#93 restoreIpAddresses.py](Medium/%2393%20restoreIpAddresses.py)
+- [\#95 generateTrees.py](Medium/%2395%20generateTrees.py)
 - [\#98 isValidBST.py](Medium/%2398%20isValidBST.py)
 - [\#102 levelOrder.py](Medium/%23102%20levelOrder.py)
 - [\#103 zigzagLevelOrder.py](Medium/%23103%20zigzagLevelOrder.py)
