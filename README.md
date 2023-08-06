@@ -348,6 +348,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#297 Codec.py](Hard/%23297%20Codec.py)
 - [\#664 strangePrinter.py](Hard/%23664%20strangePrinter.py)
 - [\#864 shortestPathAllKeys.py](Hard/%23864%20shortestPathAllKeys.py)
+- [\#920 numMusicPlaylists.py](Hard/%23920%20numMusicPlaylists.py)
 - [\#1187 makeArrayIncreasing.py](Hard/%231187%20makeArrayIncreasing.py)
 - [\#1383 maxPerformance.py](Hard/%231383%20maxPerformance.py)
 - [\#1406 stoneGameIII.py](Hard/%231406%20stoneGameIII.py)
