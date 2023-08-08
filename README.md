@@ -207,6 +207,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#18 fourSum.py](Medium/%2318%20fourSum.py)
 - [\#19 removeNthFromEnd.py](Medium/%2319%20removeNthFromEnd.py)
 - [\#24 swapPairs.py](Medium/%2324%20swapPairs.py)
+- [\#33 search.py](Medium/%2333%20search.py)
 - [\#36 isValidSudoku.py](Medium/%2336%20isValidSudoku.py)
 - [\#43 multiply.py](Medium/%2343%20multiply.py)
 - [\#46 permute.py](Medium/%2346%20permute.py)
