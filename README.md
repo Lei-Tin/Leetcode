@@ -318,6 +318,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#2462 totalCost.py](Medium/%232462%20totalCost.py)
 - [\#2466 countGoodStrings.py](Medium/%232466%20countGoodStrings.py)
 - [\#2542 maxScore.py](Medium/%232542%20maxScore.py)
+- [\#2616 minimizeMax.py](Medium/%232616%20minimizeMax.py)
 - [\#2640 findPrefixScore.py](Medium/%232640%20findPrefixScore.py)
 - [\#2641 replaceValueInTree.py](Medium/%232641%20replaceValueInTree.py)
 - [\#2657 findThePrefixCommonArray.py](Medium/%232657%20findThePrefixCommonArray.py)
