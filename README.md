@@ -220,6 +220,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#74 searchMatrix.py](Medium/%2374%20searchMatrix.py)
 - [\#75 sortColors.py](Medium/%2375%20sortColors.py)
 - [\#77 combine.py](Medium/%2377%20combine.py)
+- [\#81 search.py](Medium/%2381%20search.py)
 - [\#82 deleteDuplicates.py](Medium/%2382%20deleteDuplicates.py)
 - [\#86 partition.py](Medium/%2386%20partition.py)
 - [\#93 restoreIpAddresses.py](Medium/%2393%20restoreIpAddresses.py)
