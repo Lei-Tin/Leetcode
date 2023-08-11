@@ -264,6 +264,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#450 deleteNode.py](Medium/%23450%20deleteNode.py)
 - [\#451 frequencySort.py](Medium/%23451%20frequencySort.py)
 - [\#486 PredictTheWinner.py](Medium/%23486%20PredictTheWinner.py)
+- [\#518 change.py](Medium/%23518%20change.py)
 - [\#524 findLongestWord.py](Medium/%23524%20findLongestWord.py)
 - [\#547 findCircleNum.py](Medium/%23547%20findCircleNum.py)
 - [\#560 subarraySum.py](Medium/%23560%20subarraySum.py)
