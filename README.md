@@ -317,6 +317,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#2221 triangularSum.py](Medium/%232221%20triangularSum.py)
 - [\#2305 distributeCookies.py](Medium/%232305%20distributeCookies.py)
 - [\#2352 equalPairs.py](Medium/%232352%20equalPairs.py)
+- [\#2369 validPartition.py](Medium/%232369%20validPartition.py)
 - [\#2462 totalCost.py](Medium/%232462%20totalCost.py)
 - [\#2466 countGoodStrings.py](Medium/%232466%20countGoodStrings.py)
 - [\#2542 maxScore.py](Medium/%232542%20maxScore.py)
