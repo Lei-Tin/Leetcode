@@ -360,6 +360,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#1187 makeArrayIncreasing.py](Hard/%231187%20makeArrayIncreasing.py)
 - [\#1383 maxPerformance.py](Hard/%231383%20maxPerformance.py)
 - [\#1406 stoneGameIII.py](Hard/%231406%20stoneGameIII.py)
+- [\#1489 findCriticalAndPseudoCriticalEdges.py](Hard/%231489%20findCriticalAndPseudoCriticalEdges.py)
 - [\#1547 minCost.py](Hard/%231547%20minCost.py)
 - [\#1569 numOfWays.py](Hard/%231569%20numOfWays.py)
 - [\#1575 countRoutes.py](Hard/%231575%20countRoutes.py)
