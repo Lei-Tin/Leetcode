@@ -80,6 +80,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#412 fizzBuzz.py](Easy/%23412%20fizzBuzz.py)
 - [\#415 addStrings.py](Easy/%23415%20addStrings.py)
 - [\#434 countSegments.py](Easy/%23434%20countSegments.py)
+- [\#459 repeatedSubstringPattern.py](Easy/%23459%20repeatedSubstringPattern.py)
 - [\#476 findComplement.py](Easy/%23476%20findComplement.py)
 - [\#496 nextGreaterElement.py](Easy/%23496%20nextGreaterElement.py)
 - [\#511 gamePlayAnalysisI](Easy/%23511%20gamePlayAnalysisI)
