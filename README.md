@@ -279,6 +279,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#707 MyLinkedList.py](Medium/%23707%20MyLinkedList.py)
 - [\#714 maxProfit.py](Medium/%23714%20maxProfit.py)
 - [\#763 partitionLabels.py](Medium/%23763%20partitionLabels.py)
+- [\#767 reorganizeString.py](Medium/%23767%20reorganizeString.py)
 - [\#769 maxChunksToSorted.py](Medium/%23769%20maxChunksToSorted.py)
 - [\#784 letterCasePermutation.py](Medium/%23784%20letterCasePermutation.py)
 - [\#785 isBipartite.py](Medium/%23785%20isBipartite.py)
