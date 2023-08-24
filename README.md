@@ -355,6 +355,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#30 findSubstring.py](Hard/%2330%20findSubstring.py)
 - [\#32 longestValidParentheses.py](Hard/%2332%20longestValidParentheses.py)
 - [\#42 trap.py](Hard/%2342%20trap.py)
+- [\#68 fullJustify.py](Hard/%2368%20fullJustify.py)
 - [\#239 maxSlidingWindow.py](Hard/%23239%20maxSlidingWindow.py)
 - [\#297 Codec.py](Hard/%23297%20Codec.py)
 - [\#664 strangePrinter.py](Hard/%23664%20strangePrinter.py)
