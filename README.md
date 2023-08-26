@@ -273,6 +273,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#560 subarraySum.py](Medium/%23560%20subarraySum.py)
 - [\#567 checkInclusion.py](Medium/%23567%20checkInclusion.py)
 - [\#608 treeNode](Medium/%23608%20treeNode)
+- [\#646 findLongestChain.py](Medium/%23646%20findLongestChain.py)
 - [\#658 findClosestElements.py](Medium/%23658%20findClosestElements.py)
 - [\#695 maxAreaOfIsland.py](Medium/%23695%20maxAreaOfIsland.py)
 - [\#701 insertIntoBST.py](Medium/%23701%20insertIntoBST.py)
