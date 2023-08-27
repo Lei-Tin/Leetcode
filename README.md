@@ -359,6 +359,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#68 fullJustify.py](Hard/%2368%20fullJustify.py)
 - [\#239 maxSlidingWindow.py](Hard/%23239%20maxSlidingWindow.py)
 - [\#297 Codec.py](Hard/%23297%20Codec.py)
+- [\#403 canCross.py](Hard/%23403%20canCross.py)
 - [\#664 strangePrinter.py](Hard/%23664%20strangePrinter.py)
 - [\#864 shortestPathAllKeys.py](Hard/%23864%20shortestPathAllKeys.py)
 - [\#920 numMusicPlaylists.py](Hard/%23920%20numMusicPlaylists.py)
