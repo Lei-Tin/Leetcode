@@ -58,6 +58,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#203 removeElements.py](Easy/%23203%20removeElements.py)
 - [\#206 reverseList.py](Easy/%23206%20reverseList.py)
 - [\#217 containsDuplicate.py](Easy/%23217%20containsDuplicate.py)
+- [\#225 MyStack.py](Easy/%23225%20MyStack.py)
 - [\#226 invertTree.py](Easy/%23226%20invertTree.py)
 - [\#228 summaryRanges.py](Easy/%23228%20summaryRanges.py)
 - [\#231 isPowerOfTwo.py](Easy/%23231%20isPowerOfTwo.py)
