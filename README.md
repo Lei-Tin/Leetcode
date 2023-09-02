@@ -336,6 +336,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#2658 findMaxFish.py](Medium/%232658%20findMaxFish.py)
 - [\#2679 matrixSum.py](Medium/%232679%20matrixSum.py)
 - [\#2680 maximumOr.py](Medium/%232680%20maximumOr.py)
+- [\#2707 minExtraChar.py](Medium/%232707%20minExtraChar.py)
 - [\#2712 minimumCost.py](Medium/%232712%20minimumCost.py)
 - [\#2718 matrixSumQueries.py](Medium/%232718%20matrixSumQueries.py)
 - [\#2731 sumDistance.py](Medium/%232731%20sumDistance.py)
