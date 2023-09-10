@@ -368,6 +368,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#864 shortestPathAllKeys.py](Hard/%23864%20shortestPathAllKeys.py)
 - [\#920 numMusicPlaylists.py](Hard/%23920%20numMusicPlaylists.py)
 - [\#1187 makeArrayIncreasing.py](Hard/%231187%20makeArrayIncreasing.py)
+- [\#1359 countOrders.py](Hard/%231359%20countOrders.py)
 - [\#1383 maxPerformance.py](Hard/%231383%20maxPerformance.py)
 - [\#1406 stoneGameIII.py](Hard/%231406%20stoneGameIII.py)
 - [\#1489 findCriticalAndPseudoCriticalEdges.py](Hard/%231489%20findCriticalAndPseudoCriticalEdges.py)
