@@ -309,6 +309,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#1514 maxProbability.py](Medium/%231514%20maxProbability.py)
 - [\#1557 findSmallestSetOfVertices.py](Medium/%231557%20findSmallestSetOfVertices.py)
 - [\#1615 maximalNetworkRank.py](Medium/%231615%20maximalNetworkRank.py)
+- [\#1647 minDeletions.py](Medium/%231647%20minDeletions.py)
 - [\#1721 swapNodes.py](Medium/%231721%20swapNodes.py)
 - [\#1823 findTheWinner.py](Medium/%231823%20findTheWinner.py)
 - [\#1828 countPoints.py](Medium/%231828%20countPoints.py)
