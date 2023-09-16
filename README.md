@@ -308,6 +308,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#1493 longestSubarray.py](Medium/%231493%20longestSubarray.py)
 - [\#1514 maxProbability.py](Medium/%231514%20maxProbability.py)
 - [\#1557 findSmallestSetOfVertices.py](Medium/%231557%20findSmallestSetOfVertices.py)
+- [\#1584 minCostConnectPoints.py](Medium/%231584%20minCostConnectPoints.py)
 - [\#1615 maximalNetworkRank.py](Medium/%231615%20maximalNetworkRank.py)
 - [\#1647 minDeletions.py](Medium/%231647%20minDeletions.py)
 - [\#1721 swapNodes.py](Medium/%231721%20swapNodes.py)
