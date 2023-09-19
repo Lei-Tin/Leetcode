@@ -254,6 +254,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#236 lowestCommonAncestor.py](Medium/%23236%20lowestCommonAncestor.py)
 - [\#238 productExceptSelf.py](Medium/%23238%20productExceptSelf.py)
 - [\#240 searchMatrix.py](Medium/%23240%20searchMatrix.py)
+- [\#287 findDuplicate.py](Medium/%23287%20findDuplicate.py)
 - [\#319 bulbSwitch.py](Medium/%23319%20bulbSwitch.py)
 - [\#328 oddEvenList.py](Medium/%23328%20oddEvenList.py)
 - [\#334 increasingTriplet.py](Medium/%23334%20increasingTriplet.py)
