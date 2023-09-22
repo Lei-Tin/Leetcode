@@ -77,6 +77,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#383 canConstruct.py](Easy/%23383%20canConstruct.py)
 - [\#387 firstUniqChar.py](Easy/%23387%20firstUniqChar.py)
 - [\#389 findTheDifference.py](Easy/%23389%20findTheDifference.py)
+- [\#392 isSubsequence.py](Easy/%23392%20isSubsequence.py)
 - [\#404 sumOfLeftLeaves.py](Easy/%23404%20sumOfLeftLeaves.py)
 - [\#409 longestPalindrome.py](Easy/%23409%20longestPalindrome.py)
 - [\#412 fizzBuzz.py](Easy/%23412%20fizzBuzz.py)
