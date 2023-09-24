@@ -288,6 +288,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#769 maxChunksToSorted.py](Medium/%23769%20maxChunksToSorted.py)
 - [\#784 letterCasePermutation.py](Medium/%23784%20letterCasePermutation.py)
 - [\#785 isBipartite.py](Medium/%23785%20isBipartite.py)
+- [\#799 champagneTower.py](Medium/%23799%20champagneTower.py)
 - [\#808 soupServings.py](Medium/%23808%20soupServings.py)
 - [\#837 new21Game.py](Medium/%23837%20new21Game.py)
 - [\#841 canVisitAllRooms.py](Medium/%23841%20canVisitAllRooms.py)
