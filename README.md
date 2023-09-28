@@ -114,6 +114,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#860 lemonadeChange.py](Easy/%23860%20lemonadeChange.py)
 - [\#876 middleNode.py](Easy/%23876%20middleNode.py)
 - [\#883 projectionArea.py](Easy/%23883%20projectionArea.py)
+- [\#905 sortArrayByParity.py](Easy/%23905%20sortArrayByParity.py)
 - [\#922 sortArrayByParityII.py](Easy/%23922%20sortArrayByParityII.py)
 - [\#944 minDeletionSize.py](Easy/%23944%20minDeletionSize.py)
 - [\#953 isAlienSorted.py](Easy/%23953%20isAlienSorted.py)
