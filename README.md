@@ -108,6 +108,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#709 toLowerCase.py](Easy/%23709%20toLowerCase.py)
 - [\#733 floodFill.py](Easy/%23733%20floodFill.py)
 - [\#744 nextGreatestLetter.py](Easy/%23744%20nextGreatestLetter.py)
+- [\#746 minCostClimbingStairs.py](Easy/%23746%20minCostClimbingStairs.py)
 - [\#747 dominantIndex.py](Easy/%23747%20dominantIndex.py)
 - [\#783 minDiffInBST.py](Easy/%23783%20minDiffInBST.py)
 - [\#859 buddyStrings.py](Easy/%23859%20buddyStrings.py)
