@@ -273,6 +273,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#450 deleteNode.py](Medium/%23450%20deleteNode.py)
 - [\#451 frequencySort.py](Medium/%23451%20frequencySort.py)
 - [\#486 PredictTheWinner.py](Medium/%23486%20PredictTheWinner.py)
+- [\#515 largestValues.py](Medium/%23515%20largestValues.py)
 - [\#518 change.py](Medium/%23518%20change.py)
 - [\#524 findLongestWord.py](Medium/%23524%20findLongestWord.py)
 - [\#542 updateMatrix.py](Medium/%23542%20updateMatrix.py)
