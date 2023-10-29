@@ -290,6 +290,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#763 partitionLabels.py](Medium/%23763%20partitionLabels.py)
 - [\#767 reorganizeString.py](Medium/%23767%20reorganizeString.py)
 - [\#769 maxChunksToSorted.py](Medium/%23769%20maxChunksToSorted.py)
+- [\#779 kthGrammar.py](Medium/%23779%20kthGrammar.py)
 - [\#784 letterCasePermutation.py](Medium/%23784%20letterCasePermutation.py)
 - [\#785 isBipartite.py](Medium/%23785%20isBipartite.py)
 - [\#799 champagneTower.py](Medium/%23799%20champagneTower.py)
