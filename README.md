@@ -86,6 +86,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#459 repeatedSubstringPattern.py](Easy/%23459%20repeatedSubstringPattern.py)
 - [\#476 findComplement.py](Easy/%23476%20findComplement.py)
 - [\#496 nextGreaterElement.py](Easy/%23496%20nextGreaterElement.py)
+- [\#501 findMode.py](Easy/%23501%20findMode.py)
 - [\#511 gamePlayAnalysisI](Easy/%23511%20gamePlayAnalysisI)
 - [\#520 detectCapitalUse.py](Easy/%23520%20detectCapitalUse.py)
 - [\#530 getMinimumDifference.py](Easy/%23530%20getMinimumDifference.py)
