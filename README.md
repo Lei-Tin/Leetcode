@@ -335,6 +335,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#2130 pairSum.py](Medium/%232130%20pairSum.py)
 - [\#2140 mostPoints.py](Medium/%232140%20mostPoints.py)
 - [\#2221 triangularSum.py](Medium/%232221%20triangularSum.py)
+- [\#2265 averageOfSubtree.py](Medium/%232265%20averageOfSubtree.py)
 - [\#2305 distributeCookies.py](Medium/%232305%20distributeCookies.py)
 - [\#2352 equalPairs.py](Medium/%232352%20equalPairs.py)
 - [\#2369 validPartition.py](Medium/%232369%20validPartition.py)
