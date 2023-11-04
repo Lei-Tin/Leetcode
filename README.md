@@ -315,6 +315,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#1396 UndergroundSystem.py](Medium/%231396%20UndergroundSystem.py)
 - [\#1443 minTime.py](Medium/%231443%20minTime.py)
 - [\#1493 longestSubarray.py](Medium/%231493%20longestSubarray.py)
+- [\#1503 getLastMoment.py](Medium/%231503%20getLastMoment.py)
 - [\#1514 maxProbability.py](Medium/%231514%20maxProbability.py)
 - [\#1557 findSmallestSetOfVertices.py](Medium/%231557%20findSmallestSetOfVertices.py)
 - [\#1584 minCostConnectPoints.py](Medium/%231584%20minCostConnectPoints.py)
