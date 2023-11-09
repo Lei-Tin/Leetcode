@@ -323,6 +323,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#1615 maximalNetworkRank.py](Medium/%231615%20maximalNetworkRank.py)
 - [\#1647 minDeletions.py](Medium/%231647%20minDeletions.py)
 - [\#1721 swapNodes.py](Medium/%231721%20swapNodes.py)
+- [\#1759 countHomogenous.py](Medium/%231759%20countHomogenous.py)
 - [\#1823 findTheWinner.py](Medium/%231823%20findTheWinner.py)
 - [\#1828 countPoints.py](Medium/%231828%20countPoints.py)
 - [\#1861 rotateTheBox.py](Medium/%231861%20rotateTheBox.py)
