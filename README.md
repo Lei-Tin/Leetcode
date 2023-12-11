@@ -133,6 +133,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#1148 articleViewsI](Easy/%231148%20articleViewsI)
 - [\#1232 checkStraightLine.py](Easy/%231232%20checkStraightLine.py)
 - [\#1281 subtractProductAndSum.py](Easy/%231281%20subtractProductAndSum.py)
+- [\#1287 findSpecialInteger.py](Easy/%231287%20findSpecialInteger.py)
 - [\#1290 getDecimalValue.py](Easy/%231290%20getDecimalValue.py)
 - [\#1309 freqAlphabets.py](Easy/%231309%20freqAlphabets.py)
 - [\#1337 kWeakestRows.py](Easy/%231337%20kWeakestRows.py)
