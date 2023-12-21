@@ -323,6 +323,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#1561 maxCoins.py](Medium/%231561%20maxCoins.py)
 - [\#1584 minCostConnectPoints.py](Medium/%231584%20minCostConnectPoints.py)
 - [\#1615 maximalNetworkRank.py](Medium/%231615%20maximalNetworkRank.py)
+- [\#1637 maxWidthOfVerticalArea.py](Medium/%231637%20maxWidthOfVerticalArea.py)
 - [\#1647 minDeletions.py](Medium/%231647%20minDeletions.py)
 - [\#1721 swapNodes.py](Medium/%231721%20swapNodes.py)
 - [\#1759 countHomogenous.py](Medium/%231759%20countHomogenous.py)
