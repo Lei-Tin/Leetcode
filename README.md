@@ -318,6 +318,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#1393 capitalGainLoss](Medium/%231393%20capitalGainLoss)
 - [\#1396 UndergroundSystem.py](Medium/%231396%20UndergroundSystem.py)
 - [\#1443 minTime.py](Medium/%231443%20minTime.py)
+- [\#1457 pseudoPalindromicPaths.py](Medium/%231457%20pseudoPalindromicPaths.py)
 - [\#1493 longestSubarray.py](Medium/%231493%20longestSubarray.py)
 - [\#1503 getLastMoment.py](Medium/%231503%20getLastMoment.py)
 - [\#1514 maxProbability.py](Medium/%231514%20maxProbability.py)
