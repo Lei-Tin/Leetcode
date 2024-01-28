@@ -313,6 +313,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#1158 marketAnalysisI](Medium/%231158%20marketAnalysisI)
 - [\#1249 minRemoveToMakeValid.py](Medium/%231249%20minRemoveToMakeValid.py)
 - [\#1318 minFlips.py](Medium/%231318%20minFlips.py)
+- [\#1347 minSteps.py](Medium/%231347%20minSteps.py)
 - [\#1376 numOfMinutes.py](Medium/%231376%20numOfMinutes.py)
 - [\#1393 capitalGainLoss](Medium/%231393%20capitalGainLoss)
 - [\#1396 UndergroundSystem.py](Medium/%231396%20UndergroundSystem.py)
