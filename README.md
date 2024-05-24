@@ -354,6 +354,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#2466 countGoodStrings.py](Medium/%232466%20countGoodStrings.py)
 - [\#2483 bestClosingTime.py](Medium/%232483%20bestClosingTime.py)
 - [\#2542 maxScore.py](Medium/%232542%20maxScore.py)
+- [\#2597 beautifulSubsets.py](Medium/%232597%20beautifulSubsets.py)
 - [\#2616 minimizeMax.py](Medium/%232616%20minimizeMax.py)
 - [\#2640 findPrefixScore.py](Medium/%232640%20findPrefixScore.py)
 - [\#2641 replaceValueInTree.py](Medium/%232641%20replaceValueInTree.py)
