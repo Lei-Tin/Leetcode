@@ -312,6 +312,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#1140 stoneGameII.py](Medium/%231140%20stoneGameII.py)
 - [\#1146 SnapshotArray.py](Medium/%231146%20SnapshotArray.py)
 - [\#1158 marketAnalysisI](Medium/%231158%20marketAnalysisI)
+- [\#1190 reverseParentheses.py](Medium/%231190%20reverseParentheses.py)
 - [\#1249 minRemoveToMakeValid.py](Medium/%231249%20minRemoveToMakeValid.py)
 - [\#1318 minFlips.py](Medium/%231318%20minFlips.py)
 - [\#1347 minSteps.py](Medium/%231347%20minSteps.py)
