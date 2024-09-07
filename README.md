@@ -372,6 +372,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#2785 sortVowels.py](Medium/%232785%20sortVowels.py)
 - [\#2849 isReachableAtTime.py](Medium/%232849%20isReachableAtTime.py)
 - [\#2971 largestPerimeter.py](Medium/%232971%20largestPerimeter.py)
+- [\#3217 modifiedList.py](Medium/%233217%20modifiedList.py)
 - [\#6393 maxStrength.py](Medium/%236393%20maxStrength.py)
 - [\#6425 longestSemiRepetitiveSubstring.py](Medium/%236425%20longestSemiRepetitiveSubstring.py)
 - [\#6431 doesValidArrayExist.py](Medium/%236431%20doesValidArrayExist.py)
