@@ -292,6 +292,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#707 MyLinkedList.py](Medium/%23707%20MyLinkedList.py)
 - [\#713 numSubarrayProductLessThanK.py](Medium/%23713%20numSubarrayProductLessThanK.py)
 - [\#714 maxProfit.py](Medium/%23714%20maxProfit.py)
+- [\#725 splitListToParts.py](Medium/%23725%20splitListToParts.py)
 - [\#763 partitionLabels.py](Medium/%23763%20partitionLabels.py)
 - [\#767 reorganizeString.py](Medium/%23767%20reorganizeString.py)
 - [\#769 maxChunksToSorted.py](Medium/%23769%20maxChunksToSorted.py)
