@@ -1,5 +1,7 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
+        # Solution 1
+        # Optimize storage space
         # Check row
         for row in board:
             for num in row:
@@ -62,3 +64,31 @@ class Solution:
             vleft, vright = vright, vright + 3
 
         return True
+
+        # Solution 2
+        # Optimize runtime
+        # rows = {i: set() for i in range(9)}
+        # cols = {i: set() for i in range(9)}
+        # grids = {i: set() for i in range(9)}
+        #
+        # n, m = len(board), len(board[0])
+        #
+        # for i in range(n):
+        #     for j in range(m):
+        #         val = board[i][j]
+        #         if val == '.':
+        #             continue
+        #
+        #         subgrid_x = i // 3
+        #         subgrid_y = j // 3
+        #
+        #         grid = int(subgrid_x * 3 + subgrid_y)
+        #
+        #         if val in rows[i] or val in cols[j] or val in grids[grid]:
+        #             return False
+        #
+        #         rows[i].add(val)
+        #         cols[j].add(val)
+        #         grids[grid].add(val)
+        #
+        # return True
