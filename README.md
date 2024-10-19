@@ -329,6 +329,7 @@ If I was able to solve the problem during the contest, I will also document it u
 - [\#1503 getLastMoment.py](Medium/%231503%20getLastMoment.py)
 - [\#1514 maxProbability.py](Medium/%231514%20maxProbability.py)
 - [\#1535 getWinner.py](Medium/%231535%20getWinner.py)
+- [\#1545 findKthBit.py](Medium/%231545%20findKthBit.py)
 - [\#1557 findSmallestSetOfVertices.py](Medium/%231557%20findSmallestSetOfVertices.py)
 - [\#1561 maxCoins.py](Medium/%231561%20maxCoins.py)
 - [\#1578 minCost.py](Medium/%231578%20minCost.py)
