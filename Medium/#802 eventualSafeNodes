@@ -1,0 +1,31 @@
+class Solution:
+    def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:    
+        n = len(graph)
+
+        terminal_nodes = {i for i in range(n) if not graph[i]}
+
+        visited = set()
+        
+        @cache
+        def dfs(i):
+            if i in terminal_nodes:
+                return True
+            
+            if i in visited:
+                return False
+
+            visited.add(i)
+
+            for neighbor in graph[i]:
+                if not dfs(neighbor):
+                    return False
+
+            return True
+
+        ans = []
+
+        for i in range(n):
+            if dfs(i):
+                ans.append(i)
+
+        return ans

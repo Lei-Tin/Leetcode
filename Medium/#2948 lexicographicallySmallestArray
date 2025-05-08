@@ -1,0 +1,22 @@
+class Solution:
+    def lexicographicallySmallestArray(self, nums: List[int], limit: int) -> List[int]:
+        n = len(nums)
+        sorted_nums = sorted(zip(nums, range(n)), key=lambda x: x[0])
+
+        # Stores groups of tuples, with (num, idx)
+        groups = []
+        for num, i in sorted_nums:
+            if not groups or num - groups[-1][-1][0] > limit:
+                # Add one group
+                groups.append([(num, i)])
+            else:
+                # Add to existing group
+                groups[-1].append((num, i))
+
+        for group in groups:
+            indices_available = sorted(idx for _, idx in group)
+            
+            for i, idx in enumerate(indices_available):
+                nums[idx] = group[i][0]
+
+        return nums
